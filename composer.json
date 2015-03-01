@@ -1,0 +1,19 @@
+{
+    "name": "levelab/model/core",
+    "type": "library",
+    "description": "Domain core of Levelab",
+    "keywords": ["levelab", "core"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonid Repin",
+            "email": "leonid-repin@levelab.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-4": { "Levelab\\Model\\Core\\": "" }
+    }
+}
