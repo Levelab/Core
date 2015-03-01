@@ -1,5 +1,5 @@
 <?php
-namespace Levelab\Model\Core\Values\Id;
+namespace Levelab\Model\Core\Values;
 
 abstract class Id {
     protected $id;
